@@ -1,0 +1,14 @@
+.myimg{text-align: center;
+  width:300px;
+  height:300px;
+  object-fit:cover;
+  border-radius:50%;
+}
+span{
+  margin:250px  ;
+  background-color: Blue;
+}
+
+body{font-family: Georgia;
+  background-color: red;
+}
